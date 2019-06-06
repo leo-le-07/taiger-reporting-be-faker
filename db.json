@@ -504,5 +504,61 @@
       "negativeRating": 20,
       "noRating": 30
     }
+  ],
+  "content-flow-diagram": {
+    "name": "Looking Around",
+    "metrics": {
+      "timesAsked": 2201,
+      "flowCompletionRate": 0.4525,
+      "fallbackCount": 200,
+      "confusionRate": 0.2686,
+      "dropoffRate": 0.3312,
+      "positiveRating": 500
+    }
+  },
+  "content-conversations": {
+    "name": "Looking Around"
+  },
+  "content-conversation-list": [
+    {
+      "referenceId": "20190411-1",
+      "startDate": "2019-05-27T10:40:50+07:00",
+      "endDate": "2019-05-27T11:50:50+07:00",
+      "categories": "Business",
+      "deliveryChannels": "Desktop-web",
+      "inputTypes": "",
+      "sastisfaction": "-",
+      "feedback": ""
+    },
+    {
+      "referenceId": "20190411-2",
+      "startDate": "2019-05-27T18:40:50+07:00",
+      "endDate": "2019-05-27T19:20:50+07:00",
+      "categories": "General",
+      "deliveryChannels": "Desktop-web",
+      "inputTypes": "",
+      "sastisfaction": "-",
+      "feedback": ""
+    },
+    {
+      "referenceId": "20190411-3",
+      "startDate": "2019-06-04T20:40:50+07:00",
+      "endDate": "2019-06-04T21:30:50+07:00",
+      "categories": "Business",
+      "deliveryChannels": "Desktop-web",
+      "inputTypes": "",
+      "sastisfaction": "-",
+      "feedback": ""
+    },
+    {
+      "referenceId": "20190411-4",
+      "startDate": "2019-05-25T04:40:50+07:00",
+      "endDate": "2019-05-27T07:20:50+07:00",
+      "categories": "General",
+      "deliveryChannels": "Desktop-web",
+      "inputTypes": "",
+      "sastisfaction": "-",
+      "feedback": ""
+    }
   ]
 }
