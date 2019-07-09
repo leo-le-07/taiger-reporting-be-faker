@@ -2,14 +2,14 @@
   "chatbot-users-overview": [
     {
       "date": "2018-06-27T00:00:00Z",
-      "totalUsers": 107,
-      "returningUsers": 67,
-      "newUsers": 40
+      "totalUsers": 2500,
+      "returningUsers": 150,
+      "newUsers": 70
     },
     {
       "date": "2018-06-26T00:00:00Z",
-      "totalUsers": 114,
-      "returningUsers": 60,
+      "totalUsers": 1214,
+      "returningUsers": 1500,
       "newUsers": 54
     },
     {
@@ -94,19 +94,19 @@
       "date": "2018-06-12T00:00:00Z",
       "totalUsers": 99,
       "returningUsers": 83,
-      "newUsers": 16
+      "newUsers": 1500
     },
     {
       "date": "2018-06-11T00:00:00Z",
       "totalUsers": 141,
       "returningUsers": 44,
-      "newUsers": 97
+      "newUsers": 350
     },
     {
       "date": "2018-06-10T00:00:00Z",
       "totalUsers": 78,
-      "returningUsers": 23,
-      "newUsers": 55
+      "returningUsers": 1900,
+      "newUsers": 999
     },
     {
       "date": "2018-06-09T00:00:00Z",
@@ -559,6 +559,56 @@
       "date": "2019-06-23T00:00:00Z",
       "user": 40,
       "bot": 23
+    }
+  ],
+  "user-satisfaction-rating": [
+    {
+      "date": "2019-06-20T00:00:00Z",
+      "avgRating": 2.32
+    },
+    {
+      "date": "2019-06-21T00:00:00Z",
+      "avgRating": 4.12
+    },
+    {
+      "date": "2019-06-22T00:00:00Z",
+      "avgRating": 1.35
+    },
+    {
+      "date": "2019-06-23T00:00:00Z",
+      "avgRating": 5
+    }
+  ],
+  "user-feedbacks": [
+    {
+      "id": 1,
+      "referenceId": "20190411-1",
+      "feedback": "Lorem ipsum dolor sit amet, consecture adipiscing lorem ipsum dolor sit amet, consecture adipiscing lorem ipsum dolor sit amet, consecture adipiscing",
+      "rating": 2.5
+    },
+    {
+      "id": 2,
+      "referenceId": "20190411-2",
+      "feedback": "Lorem ipsum dolor sit amet, consecture adipiscing lorem ipsum dolor sit amet, consecture adipiscing lorem ipsum dolor sit amet, consecture adipiscing",
+      "rating": 4.5
+    },
+    {
+      "id": 3,
+      "referenceId": "20190411-3",
+      "feedback": "Lorem ipsum dolor sit amet, consecture adipiscing lorem ipsum dolor sit amet, consecture adipiscing lorem ipsum dolor sit amet, consecture adipiscing",
+      "rating": 1
+    },
+    {
+      "id": 4,
+      "referenceId": "20190411-4",
+      "feedback": "Lorem ipsum dolor sit amet, consecture adipiscing lorem ipsum dolor sit amet, consecture adipiscing lorem ipsum dolor sit amet, consecture adipiscing",
+      "rating": 3
+    },
+    {
+      "id": 5,
+      "referenceId": "20190411-5",
+      "feedback": "Lorem ipsum dolor sit amet, consecture adipiscing lorem ipsum dolor sit amet, consecture adipiscing lorem ipsum dolor sit amet, consecture adipiscing",
+      "rating": 4.5
     }
   ]
 }
