@@ -622,5 +622,43 @@
       "name": "Report 2",
       "createdDate": "2019-06-25T00:00:00Z"
     }
-  ]
+  ],
+  "form-report-creation-master-data": {
+    "intents": [
+      {
+        "id": 1,
+        "name": "Looking around"
+      },
+      {
+        "id": 2,
+        "name": "Who are you?"
+      },
+      {
+        "id": 3,
+        "name": "Brands"
+      },
+      {
+        "id": 4,
+        "name": "Item A"
+      },
+      {
+        "id": 5,
+        "name": "Item B"
+      }
+    ],
+    "reportFields": [
+      {
+        "id": 1,
+        "name": "First Name"
+      },
+      {
+        "id": 2,
+        "name": "Email Address"
+      },
+      {
+        "id": 3,
+        "name": "Contact Number"
+      }
+    ]
+  }
 }
