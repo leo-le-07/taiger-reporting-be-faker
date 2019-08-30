@@ -690,5 +690,30 @@
       "contactNumber": "8289 7447",
       "emailAddress": "mandy@gmail.com"
     }
-  ]
+  ],
+  "conversations-data": {
+    "content": [
+      {
+        "id": 1,
+        "botName": "Bot Alpha",
+        "startDate": "2019-05-27T10:40:50+07:00",
+        "endDate": "2019-05-28T10:40:50+07:00",
+        "businessArea": "Business",
+        "deliveryChannels": "Desktop-web",
+        "satisfaction": "-",
+        "comment": ""
+      },
+      {
+        "id": 2,
+        "botName": "Bot Alpha",
+        "startDate": "2019-06-17T10:40:50+07:00",
+        "endDate": "2019-06-18T10:40:50+07:00",
+        "businessArea": "Business",
+        "deliveryChannels": "Desktop-web",
+        "satisfaction": "-",
+        "comment": ""
+      }
+    ],
+    "totalElements": 2
+  }
 }
